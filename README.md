@@ -1,7 +1,7 @@
 # assert-usage
 Dataset of <a href="https://docs.wixstatic.com/ugd/775ac2_020e927464694320b273159d81878e07.pdf" target="_blank">"Revisiting Assert Use in GitHub Projects"</a>. The paper was published at EASE 2017  (International Conference on Evaluation and Assessment in Software Engineering) 
 
-[Revisiting Assert Use in GitHub Projects](https://docs.wixstatic.com/ugd/775ac2_020e927464694320b273159d81878e07.pdf){:target="_blank"}
+[Revisiting Assert Use in GitHub Projects](https://docs.wixstatic.com/ugd/775ac2_020e927464694320b273159d81878e07.pdf target="_blank")
 
 ApacheProjects.txt - Contains list of 185 Java Apache Projects
 
