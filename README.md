@@ -5,9 +5,9 @@ ApacheProjects.txt - Contains list of 185 Java Apache Projects
 
 Assert-Defect.csv -  Contains LOC, No. of developers, No. of asserts, No. of bug-fixing commits for each method (see RQ1)
 
-NonZDataLowerDev.csv - **(Higher than median developers)** Contains LOC, No. of developers, No. of asserts, No. of bug-fixing commits for each method (see RQ1)
+NonZDataLowerDev.csv - **(Lower than median developers)** Contains LOC, No. of developers, No. of asserts, No. of bug-fixing commits for each method (see RQ1)
 
-NonZDataUpperDev.csv - **(Lower than median developers)** Contains LOC, No. of developers, No. of asserts, No. of bug-fixing commits for each method (see RQ1)
+NonZDataUpperDev.csv - **(Higher than median developers)** Contains LOC, No. of developers, No. of asserts, No. of bug-fixing commits for each method (see RQ1)
 
 OwnershipDataAsserts.csv - **(With Asserts)** Contains No. of developers, Ownership, Experience (Total no. of commit) for each developer (see RQ2)
 
